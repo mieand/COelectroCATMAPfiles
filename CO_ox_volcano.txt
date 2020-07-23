@@ -1,0 +1,12 @@
+surface_name	site_name	species_name	formation_energy	frequencies	reference
+None	gas	CO	0	[]	Reference point
+None	gas	CO2	-0.21	[]	Total delta G of rxn from tabulated values
+None	gas	H2O	0.0	[]	Reference point
+None	gas	pe	0	[]	Defined as 0 eV at 0 V vs RHE (Computational Hydrogen Electrode)
+
+Pt	p	CO	-10	[]	Dummy
+Pt	p	OH	-10	[]	Dummy
+
+
+
+
